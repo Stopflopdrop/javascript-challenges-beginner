@@ -15,3 +15,12 @@ if (!output) throw "Output container not found.";
 
 //@ts-check
 // your code starts after this line
+
+let max = "..........".length;
+for (let i = [].length;i <=(max*max);i++) {
+   console.log
+}
+
+
+
+
