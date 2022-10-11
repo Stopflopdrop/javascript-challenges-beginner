@@ -31,7 +31,7 @@ for(var i = 0; i < 11; i++) {
 			result += (i*j) + ' ';
 				}
 	}
-	result += '/n'
+	result += '\n'
 	output.append(result);
 }
 
